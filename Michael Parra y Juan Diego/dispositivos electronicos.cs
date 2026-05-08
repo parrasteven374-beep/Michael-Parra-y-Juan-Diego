@@ -15,8 +15,8 @@ public class DispositivoElectronico
 
     public void mostrarInfo()
     {
-        Console.WriteLine("Marca: " + marca);
-        Console.WriteLine("Modelo: " + modelo);
-        Console.WriteLine("Precio: " + precio);
+        Console.WriteLine("Marca : " + marca);
+        Console.WriteLine("Modelo : " + modelo);
+        Console.WriteLine("Precio : " + precio);
     }
 }
